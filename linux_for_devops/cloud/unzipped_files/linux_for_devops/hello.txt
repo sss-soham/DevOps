@@ -1,0 +1,7 @@
+hello friends
+how are you
+I am learning Devops
+Started Linux for basics
+
+:wq
+
