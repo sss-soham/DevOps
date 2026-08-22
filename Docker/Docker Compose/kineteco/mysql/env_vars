@@ -1,0 +1,4 @@
+MYSQL_ROOT_PASSWORD=password
+MYSQL_DATABASE=kineteco
+MYSQL_USER=kineteco
+MYSQL_PASSWORD=password
