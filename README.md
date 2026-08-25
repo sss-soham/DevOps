@@ -26,8 +26,8 @@ Background: 1+ year API testing, SoapUI, automation with Windsurf.
 | Month | Topic | Dates | Status |
 |-------|-------|-------|--------|
 | Month 1 | Linux + Git | May - Jun 26 | ✅ Done |
-| Month 2 | Bash + Docker + Compose | Jun 26 - Aug 25 | 🔥 In Progress |
-| Month 3 | GitHub Actions + AWS + Terraform | Aug 25 - Sep 30 | ⏳ Upcoming |
+| Month 2 | Bash + Docker + Compose | Jun 26 - Aug 25 | ✅ Done |
+| Month 3 | GitHub Actions + AWS + Terraform | Aug 25 - Sep 30 | 🔥 In Progress |
 | Month 4 | Kubernetes + Helm | October 2026 | ⏳ Upcoming |
 | Month 5 | Monitoring + AWS SAA Prep | November 2026 | ⏳ Upcoming |
 | Month 6 | AWS Exam + Hero Project | December 2026 | ⏳ Upcoming |
